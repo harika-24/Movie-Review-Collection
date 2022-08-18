@@ -34,13 +34,13 @@ npm start
 
 ### The landing page 
 
-![Project Structure](1.png) 
+![Project Structure](/1.png) 
 
 &emsp;
 
 ### The favorites on the movies
 
-![Project Structure](2.png) 
+![Project Structure](/2.png) 
 
 &emsp;
 
